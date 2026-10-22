@@ -1,0 +1,8 @@
+{
+    "final_loss_xpinn": 0.4194983243942261,
+    "final_loss_monolithic": 0.1916637122631073,
+    "rel_l2_solid": 0.11218870958371732,
+    "rel_l2_fluid": 0.11952619235662976,
+    "k_ratio": 10.0,
+    "pe_number": 10.0
+}

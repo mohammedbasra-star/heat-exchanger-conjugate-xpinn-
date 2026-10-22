@@ -1,0 +1,7 @@
+{
+    "l2_solid_xpinn": 0.11218870958371732,
+    "l2_fluid_xpinn": 0.11952619235662976,
+    "l2_solid_monolithic": 0.3806563276156616,
+    "l2_fluid_monolithic": 0.8290693753000868,
+    "interface_gap": 0.03228912129998207
+}
