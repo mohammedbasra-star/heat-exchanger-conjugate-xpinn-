@@ -4,7 +4,7 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 2.x](https://img.shields.io/badge/PyTorch-2.x-EE4C2C.svg?logo=pytorch)](https://pytorch.org/)
 [![SciML](https://img.shields.io/badge/Domain-Thermal%20Sciences%20%26%20Turbomachinery-007ACC.svg)](https://github.com/mohammedbasra-star)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mohammedbasra-star/heat-exchanger-conjugate-xpinn/blob/main/notebooks/quickstart_demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mohammedbasra-star/heat-exchanger-conjugate-xpinn-/blob/main/notebooks/quickstart_demo.ipynb)
 
 A pure PyTorch research repository implementing **Extended Physics-Informed Neural Networks (XPINNs)** for 2D **Conjugate Heat Transfer (CHT)** across heterogeneous solid-fluid domains in turbomachinery blade internal cooling channels and compact heat exchangers.
 
@@ -103,8 +103,8 @@ Heat transfer rate evolution along turbine cooling channel length:
 
 ### Installation
 ```bash
-git clone https://github.com/mohammedbasra-star/heat-exchanger-conjugate-xpinn.git
-cd heat-exchanger-conjugate-xpinn
+git clone https://github.com/mohammedbasra-star/heat-exchanger-conjugate-xpinn-.git
+cd heat-exchanger-conjugate-xpinn-
 pip install -r requirements.txt
 ```
 
